@@ -1,0 +1,92 @@
+======================================== System Information ========================================
+System: Linux
+Node Name: HP-Manjaro
+Release: 5.13.12-1-MANJARO
+Version: #1 SMP PREEMPT Wed Aug 18 08:06:42 UTC 2021
+Machine: x86_64
+Processor: 
+======================================== Boot Time ========================================
+Boot Time: 2021/8/28 0:56:31
+======================================== CPU Info ========================================
+Physical cores: 2
+Total cores: 4
+Max Frequency: 2700.00Mhz
+Min Frequency: 500.00Mhz
+Current Frequency: 2600.10Mhz
+CPU Usage Per Core:
+Core 0: 7.9%
+Core 1: 5.1%
+Core 2: 2.0%
+Core 3: 1.0%
+Total CPU Usage: 6.5%
+======================================== Memory Information ========================================
+Total: 7.68GB
+Available: 5.67GB
+Used: 1.32GB
+Percentage: 26.2%
+==================== SWAP ====================
+Total: 0.00B
+Free: 0.00B
+Used: 0.00B
+Percentage: 0.0%
+======================================== Disk Information ========================================
+Partitions and Usage:
+=== Device: /dev/sda1 ===
+  Mountpoint: /
+  File system type: ext4
+  Total Size: 97.88GB
+  Used: 16.02GB
+  Free: 76.85GB
+  Percentage: 17.2%
+=== Device: /dev/loop0 ===
+  Mountpoint: /var/lib/snapd/snap/snapd/12883
+  File system type: squashfs
+  Total Size: 32.38MB
+  Used: 32.38MB
+  Free: 0.00B
+  Percentage: 100.0%
+=== Device: /dev/loop1 ===
+  Mountpoint: /var/lib/snapd/snap/gtk-common-themes/1515
+  File system type: squashfs
+  Total Size: 65.12MB
+  Used: 65.12MB
+  Free: 0.00B
+  Percentage: 100.0%
+=== Device: /dev/loop2 ===
+  Mountpoint: /var/lib/snapd/snap/core18/2128
+  File system type: squashfs
+  Total Size: 55.50MB
+  Used: 55.50MB
+  Free: 0.00B
+  Percentage: 100.0%
+=== Device: /dev/sda3 ===
+  Mountpoint: /boot/efi
+  File system type: vfat
+  Total Size: 96.00MB
+  Used: 53.19MB
+  Free: 42.81MB
+  Percentage: 55.4%
+Total read: 1.22GB
+Total write: 84.76MB
+======================================== Network Information ========================================
+=== Interface: lo ===
+  IP Address: 127.0.0.1
+  Netmask: 255.0.0.0
+  Broadcast IP: None
+=== Interface: lo ===
+=== Interface: lo ===
+  MAC Address: 00:00:00:00:00:00
+  Netmask: None
+  Broadcast MAC: None
+=== Interface: wlo1 ===
+  IP Address: 192.168.1.170
+  Netmask: 255.255.255.0
+  Broadcast IP: 192.168.1.255
+=== Interface: wlo1 ===
+=== Interface: wlo1 ===
+=== Interface: wlo1 ===
+  MAC Address: 60:57:18:34:ce:2f
+  Netmask: None
+  Broadcast MAC: ff:ff:ff:ff:ff:ff
+Total Bytes Sent: 212.50KB
+Total Bytes Received: 381.35KB

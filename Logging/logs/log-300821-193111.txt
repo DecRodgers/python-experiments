@@ -1,0 +1,123 @@
+======================================== System Information ========================================
+System: Windows
+Node Name: DUALITY
+Release: 10
+Version: 10.0.19041
+Machine: AMD64
+Processor: Intel64 Family 6 Model 165 Stepping 3, GenuineIntel
+======================================== Boot Time ========================================
+Boot Time: 2021/8/27 19:15:40
+======================================== CPU Info ========================================
+Physical cores: 6
+Total cores: 12
+Max Frequency: 3096.00Mhz
+Min Frequency: 0.00Mhz
+Current Frequency: 3096.00Mhz
+CPU Usage Per Core:
+Core 0: 3.0%
+Core 1: 0.0%
+Core 2: 3.1%
+Core 3: 7.7%
+Core 4: 1.5%
+Core 5: 0.0%
+Core 6: 1.5%
+Core 7: 0.0%
+Core 8: 1.5%
+Core 9: 0.0%
+Core 10: 0.0%
+Core 11: 0.0%
+Total CPU Usage: 1.5%
+======================================== Memory Information ========================================
+Total: 15.92GB
+Available: 8.46GB
+Used: 7.46GB
+Percentage: 46.9%
+==================== SWAP ====================
+Total: 30.92GB
+Free: 19.66GB
+Used: 11.27GB
+Percentage: 36.4%
+======================================== Disk Information ========================================
+Partitions and Usage:
+=== Device: C:\ ===
+  Mountpoint: C:\
+  File system type: NTFS
+  Total Size: 465.15GB
+  Used: 178.45GB
+  Free: 286.71GB
+  Percentage: 38.4%
+=== Device: D:\ ===
+  Mountpoint: D:\
+  File system type: NTFS
+  Total Size: 2.73TB
+  Used: 2.20TB
+  Free: 538.04GB
+  Percentage: 80.7%
+=== Device: E:\ ===
+  Mountpoint: E:\
+  File system type: exFAT
+  Total Size: 119.50GB
+  Used: 100.91GB
+  Free: 18.60GB
+  Percentage: 84.4%
+=== Device: S:\ ===
+  Mountpoint: S:\
+  File system type: NTFS
+  Total Size: 476.81GB
+  Used: 447.09GB
+  Free: 29.73GB
+  Percentage: 93.8%
+Total read: 18.56GB
+Total write: 6.31GB
+======================================== Network Information ========================================
+=== Interface: Ethernet 2 ===
+=== Interface: Ethernet 2 ===
+  IP Address: 169.254.98.96
+  Netmask: 255.255.0.0
+  Broadcast IP: None
+=== Interface: Ethernet 2 ===
+=== Interface: VirtualBox Host-Only Network ===
+=== Interface: VirtualBox Host-Only Network ===
+  IP Address: 169.254.67.154
+  Netmask: 255.255.0.0
+  Broadcast IP: None
+=== Interface: VirtualBox Host-Only Network ===
+=== Interface: WiFi ===
+=== Interface: WiFi ===
+  IP Address: 169.254.45.251
+  Netmask: 255.255.0.0
+  Broadcast IP: None
+=== Interface: WiFi ===
+=== Interface: Local Area Connection* 1 ===
+=== Interface: Local Area Connection* 1 ===
+  IP Address: 169.254.115.142
+  Netmask: 255.255.0.0
+  Broadcast IP: None
+=== Interface: Local Area Connection* 1 ===
+=== Interface: Local Area Connection* 10 ===
+=== Interface: Local Area Connection* 10 ===
+  IP Address: 169.254.137.168
+  Netmask: 255.255.0.0
+  Broadcast IP: None
+=== Interface: Local Area Connection* 10 ===
+=== Interface: Ethernet ===
+=== Interface: Ethernet ===
+  IP Address: 192.168.1.242
+  Netmask: 255.255.255.0
+  Broadcast IP: None
+=== Interface: Ethernet ===
+=== Interface: Ethernet ===
+=== Interface: Ethernet ===
+=== Interface: Bluetooth Network Connection ===
+=== Interface: Bluetooth Network Connection ===
+  IP Address: 169.254.25.194
+  Netmask: 255.255.0.0
+  Broadcast IP: None
+=== Interface: Bluetooth Network Connection ===
+=== Interface: Loopback Pseudo-Interface 1 ===
+  IP Address: 127.0.0.1
+  Netmask: 255.0.0.0
+  Broadcast IP: None
+=== Interface: Loopback Pseudo-Interface 1 ===
+Total Bytes Sent: 19.39MB
+Total Bytes Received: 348.90MB
