@@ -85,7 +85,7 @@ Total write: 84.76MB
 === Interface: wlo1 ===
 === Interface: wlo1 ===
 === Interface: wlo1 ===
-  MAC Address: 60:57:18:34:ce:2f
+  MAC Address: [OMITTED]
   Netmask: None
   Broadcast MAC: ff:ff:ff:ff:ff:ff
 Total Bytes Sent: 212.50KB
